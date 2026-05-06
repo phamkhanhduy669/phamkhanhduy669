@@ -2,11 +2,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBxODFnMHkwc2JjZmgyM25nbjU5Mncwd281NjVra3l2cjRwMml6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZciYao3yV98Q0hYBdK/giphy.gif"/>
+<img align="right" height="150" alt="giphy" src="https://github.com/user-attachments/assets/34c47525-7623-4024-9c1e-0ac5d08b1217"/>
 
 ###
 
 <div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
