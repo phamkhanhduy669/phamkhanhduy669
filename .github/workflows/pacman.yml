@@ -1,5 +1,6 @@
 name: Generate pacman animation
-
+env:
+    NODE_OPTIONS: --max-old-space-size=8192
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
