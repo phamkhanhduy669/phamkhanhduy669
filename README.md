@@ -31,10 +31,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/phamkhanhduy669/phamkhanhduy669/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
